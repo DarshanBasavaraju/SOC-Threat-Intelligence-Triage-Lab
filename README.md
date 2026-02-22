@@ -1,2 +1,2 @@
 # SOC-Threat-Intelligence-Triage-Lab
-A SOC-driven threat detection and IOC enrichment framework built using Splunk to simulate real-world alert triage and risk-based prioritization.
+Simulated SOC workflow for correlating proxy logs with external threat intelligence feed using Splunk.
