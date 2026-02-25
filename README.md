@@ -6,7 +6,9 @@ Overview
 This project simulates a real-world SOC workflow for detecting malicious domains — including phishing, brand impersonation, and credential harvesting — using Splunk.
 
 Brand impersonation detection
+
 Threat intelligence enrichment
+
 Incident triage workflows
 
 Lab Workflow
