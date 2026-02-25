@@ -1,0 +1,7 @@
+timestamp,src_ip,domain,action
+2026-02-01 10:10:00,10.0.0.5,kotak-secure-login.com,allowed
+2026-02-01 10:11:00,10.0.0.8,google.com,allowed
+2026-02-01 10:12:00,10.0.0.15,ofi-secure.cam,allowed
+2026-02-01 10:13:00,10.0.0.5,paypal-alert-security.com,blocked
+2026-02-01 10:14:00,10.0.0.21,microsoft.com,allowed
+2026-02-01 10:15:00,10.0.0.15,fake-azure-login.net,allowed
