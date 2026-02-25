@@ -1,6 +1,6 @@
 domain,threat_type,confidence
-kotak-secure-login.com,phishing,high
+seclabs-secure-login.com,phishing,high
 ofi-secure.cam,brand impersonation,high
-fake-azure-login.net,credential harvesting,medium
-cloudsek-support.org,impersonation,high
-paypal-alert-security.com,phishing,high
+fake-asure-login.net,credential harvesting,medium
+appsec-support.org,impersonation,high
+payplan-alert-security.com,phishing,high
