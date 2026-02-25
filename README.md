@@ -31,6 +31,18 @@ Infected IP detection:
 
 ---
 
+## Dashboard Overview
+![Dashboard](screenshots/dashboard_overview.png)
+
+## Top Infected IPs Panel
+![Infected IPs](screenshots/infected_ips_panel.png)
+
+## Threat Distribution Panel
+![Threat Distribution](screenshots/threat_distribution_panel.png)
+
+## Timeline Panel
+![Timeline](screenshots/timeline_panel.png)
+
 ## Key Outcomes
 
 - Built threat intelligence lookup integration
