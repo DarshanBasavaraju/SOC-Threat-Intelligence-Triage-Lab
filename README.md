@@ -2,12 +2,7 @@
 
 SOC Threat Intelligence Enrichment and Triage Simulation using Splunk
 
-This project simulates a real-world SOC workflow for detecting malicious domains — including phishing, brand impersonation, and credential harvesting — using Splunk.
-
-Inspired by real-world experience in:
-- Brand impersonation detection
-- Threat intelligence enrichment
-- Incident triage workflows
+This lab simulates a SOC workflow for analyzing proxy logs and matching them against a threat intelligence feed to flag interactions with known malicious domains.
 
 Lab Workflow:
 
