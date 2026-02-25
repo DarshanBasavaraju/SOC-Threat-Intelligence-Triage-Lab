@@ -1,0 +1,5 @@
+index=proxy_logs
+| lookup threat_lookup domain OUTPUT threat_type confidence
+| search threat_type=*
+| stats count by src_ip
+| sort -count
