@@ -1,0 +1,4 @@
+index=proxy_logs
+| lookup threat_lookup domain OUTPUT threat_type confidence
+| search threat_type=*
+| timechart count
